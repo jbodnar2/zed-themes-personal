@@ -25,7 +25,7 @@
         "error": "#e06c75ff",
         "error.background": "#e06c751a",
         "error.border": "#e06c75ff",
-        "ignored": "#9caacdff",
+        "ignored": "#9caacd99",
         "ignored.background": "#9caacd1a",
         "ignored.border": "#9caacdff",
         "info": "#4fc1e9ff",

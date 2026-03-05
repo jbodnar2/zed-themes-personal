@@ -4,20 +4,8 @@
   "author": "Jon Bodnar",
   "themes": [
     {
-      "name": "Vajra Nova",
+      "name": "Official Vajra Nova",
       "appearance": "dark",
-      "description": "A cosmic explosion of electric blue and deep purple. Sibling to Vajra Cobalt, with a stellar twist. Fully accessible and crafted for all-day coding.",
-      "keywords": [
-        "vajra",
-        "nova",
-        "cosmic",
-        "electric",
-        "purple",
-        "blue",
-        "accessible",
-        "professional"
-      ],
-      "version": "1.0.0",
       "style": {
         "background": "#0c0f1aff",
         "surface.background": "#121624ff",
@@ -26,95 +14,74 @@
         "editor.background": "#121624ff",
         "editor.gutter.background": "#121624ff",
         "editor.subheader.background": "#0c0f1aff",
-
         "border": "#1a1e2eff",
         "border.focused": "#00e5ff66",
         "border.selected": "#00e5ffff",
         "border.transparent": "#00000000",
         "border.variant": "#6d8dff99",
         "border.disabled": "#3f4554ff",
-
         "conflict": "#ff6b8bff",
         "conflict.background": "#441e2e44",
         "conflict.border": "#ff6b8bff",
-
         "created": "#00e5ffff",
         "created.background": "#003d4a44",
         "created.border": "#00e5ffff",
-
         "deleted": "#ff6b8bff",
         "deleted.background": "#442a2a44",
         "deleted.border": "#ff6b8bff",
-
         "drop_target.background": "#00e5ff44",
-
         "error": "#ff6b8bff",
         "error.background": "#441e2e44",
         "error.border": "#ff6b8bff",
-
         "ignored": "#6f7a9aff",
         "ignored.background": "#2a2f4444",
         "ignored.border": "#6f7a9a99",
-
         "info": "#6d8dffff",
         "info.background": "#1a2d4a44",
         "info.border": "#6d8dffff",
-
         "modified": "#b08cffff",
         "modified.background": "#2f285044",
         "modified.border": "#b08cffff",
-
         "warning": "#ff9e5eff",
         "warning.background": "#44361e44",
         "warning.border": "#ff9e5eff",
-
         "renamed": "#9a7affff",
         "renamed.background": "#352b5522",
         "renamed.border": "#9a7affff",
-
         "success": "#00e5ffff",
         "success.background": "#003d4a44",
         "success.border": "#00e5ffff",
-
         "predictive": "#9ca6c4cc",
         "predictive.background": "#00e5ff0f",
         "predictive.border": "#9ca6c466",
-
         "hint": "#b0bad6ff",
         "hint.background": "#00e5ff0f",
         "hint.border": "#b0bad666",
-
         "pane_group.border": "#1a1e2eff",
         "pane.focused_border": "#00e5ffcc",
         "panel.focused_border": "#00e5ffcc",
-
         "status_bar.background": "#0c0f1aff",
         "title_bar.background": "#0c0f1aff",
         "title_bar.inactive_background": "#121624ff",
         "toolbar.background": "#0c0f1aff",
-
         "text": "#c5d0ecff",
         "text.accent": "#00e5ffff",
         "text.disabled": "#6f7a9aff",
         "text.muted": "#b0bad6ff",
         "text.placeholder": "#9ca6c4ff",
-
         "element.active": "#00e5ff55",
         "element.background": "#1a1e2e55",
         "element.disabled": "#00000000",
         "element.hover": "#00e5ff33",
         "element.selected": "#6d8dff44",
-
         "ghost_element.active": "#00e5ff55",
         "ghost_element.background": "#6f7a9a44",
         "ghost_element.disabled": "#00000000",
         "ghost_element.hover": "#00e5ff66",
         "ghost_element.selected": "#6d8dff44",
-
         "tab.active_background": "#1a1e2eff",
         "tab.inactive_background": "#0c0f1aff",
         "tab_bar.background": "#0c0f1aff",
-
         "editor.active_line.background": "#00e5ff1a",
         "editor.active_wrap_guide": "#5f6b8ccc",
         "editor.document_highlight.read_background": "#00809944",
@@ -122,69 +89,23 @@
         "editor.document_highlight.bracket_background": "#5f6b8c44",
         "editor.foreground": "#c5d0ecff",
         "editor.highlighted_line.background": "#1a1e2eff",
-        "editor.hover_line_number": "#00e5ffff",
         "editor.invisible": "#5f6b8c99",
         "editor.line_number": "#9ca6c4ff",
         "editor.active_line_number": "#b0bad6ff",
         "editor.wrap_guide": "#5f6b8caa",
         "editor.indent_guide": "#5f6b8c88",
         "editor.indent_guide_active": "#00e5ff77",
-        "editor.selection": "#6d8dff33",
-        "editor.selection.border": "#6d8dff00",
-        "editor.selection.highlight": "#00e5ff44",
-        "editor.selection.highlight.border": "#00e5ff00",
-        "editor.whitespace": "#5f6b8c66",
-        "editor.ruler": "#1a1e2eff",
-        "editor.focused_border": "#00e5ffcc",
-
         "link_text.hover": "#00e5ffff",
-
-        "search.active_match_background": "#ff9e5e99",
         "search.match_background": "#5f6b8c55",
-
-        "scrollbar.thumb.active_background": "#00e5ff77",
         "scrollbar.thumb.background": "#5f6b8caa",
         "scrollbar.thumb.hover_background": "#9ca6c4ff",
         "scrollbar.track.background": "#0c0f1a00",
         "scrollbar.track.border": "#00000000",
-
-        "focus.border": "#00e5ffff",
-        "focus.background": "#00e5ff1a",
-        "focus.highlight": "#00e5ffff",
-
-        "version_control.added": "#00e5ffff",
-        "version_control.conflict_marker.ours": "#6d8dff33",
-        "version_control.conflict_marker.theirs": "#ff9e5e33",
-        "version_control.deleted": "#ff6b8bff",
-        "version_control.modified": "#b08cffff",
-        "version_control.word_added": "#00e5ff33",
-        "version_control.word_deleted": "#ff6b8b4C",
-
         "icon": "#b0bad6ff",
         "icon.accent": "#00e5ffff",
         "icon.disabled": "#6f7a9aff",
         "icon.muted": "#9ca6c4ff",
         "icon.placeholder": "#9ca6c4ff",
-
-        "list.selection": "#6d8dff1a",
-        "list.selection.border": "#00e5ff44",
-        "list.highlight": "#6d8dff1a",
-        "list.hover": "#6d8dff0f",
-        "list.focus": "#6d8dff1a",
-
-        "tooltip.background": "#1a1e2eff",
-        "tooltip.border": "#5f6b8cff",
-        "tooltip.text": "#c5d0ecff",
-
-        "dropdown.background": "#121624ff",
-        "dropdown.border": "#1a1e2eff",
-        "dropdown.list.background": "#1a1e2eff",
-
-        "checkbox.background": "#121624ff",
-        "checkbox.border": "#5f6b8cff",
-        "checkbox.checked.background": "#00e5ffff",
-        "checkbox.checked.border": "#00e5ffff",
-
         "terminal.background": "#121624ff",
         "terminal.foreground": "#c5d0ecff",
         "terminal.bright_foreground": "#e0e6ffff",
@@ -213,7 +134,6 @@
         "terminal.ansi.dim_magenta": "#b08cffcc",
         "terminal.ansi.dim_cyan": "#5ad0e0cc",
         "terminal.ansi.dim_white": "#c5d0eccc",
-
         "syntax": {
           "attribute": { "color": "#5ad0e0ff" },
           "comment": { "color": "#9ca6c4ff", "font_style": "italic" },
